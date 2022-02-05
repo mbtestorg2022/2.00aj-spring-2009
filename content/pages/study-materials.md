@@ -4,36 +4,532 @@ title: Study Materials
 uid: 303c499b-e5d2-36b1-cde0-bb36d615f4e7
 ---
 
-| SES # | TOPICS | LECTURES | MATERIALS |
-| --- | --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Class overview {{< br >}}{{< br >}} Introduction to engineering and the design process, engineering drawing, sketching, back of the envelope calculations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Overview ([PDF 1 ‑ 4.8MB]({{< baseurl >}}/resources/mit2_00ajs09_lec01a)) {{< br >}}{{< br >}} Engineering design (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 ‑ 3.6MB]({{< baseurl >}}/resources/mit2_00ajs09_lec01b)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introductory questionnaire ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res01a)) {{< br >}}{{< br >}} Concept quiz ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res01b)) {{< br >}}{{< br >}} Slocum, Alexander H. "Design Is A Passionate Process." Chapter 1 in _Fundamentals of Design_. ([PDF](http://web.mit.edu/2.75/fundamentals/FUNdaMENTALs%20Book%20pdf/FUNdaMENTALs%20Topic%201.PDF)) {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Basic design analysis {{< br >}}{{< br >}} Free body diagrams, Newton's laws {{< br >}}{{< br >}}  | Engineering analysis ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lec02)) |
-| 3 |  {{< br >}}{{< br >}} Electronics and water: two great tastes that don't taste so great together… {{< br >}}{{< br >}} Exploration with instrumentation {{< br >}}{{< br >}}  | Circuits ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lec03)) |
-| 4 | Hydrostatics, pressure and water proofing | Fluid effects and forces ([PDF ‑ 3.1MB]({{< baseurl >}}/resources/mit2_00ajs09_lec04)) | Hydrostatic pressure effects and Archimedes' principle ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_read04)) |
-| 5 | Holiday - no lecture | &nbsp; |
-| 6 | Design brainstorming, project ideas, Solidworks repository development | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Motors and electronics {{< br >}}{{< br >}} Guest lecturer: Prof. Steven Leeb {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Gears & linkages ([PDF ‑ 1.7MB]({{< baseurl >}}/resources/mit2_00ajs09_lec07)) {{< br >}}{{< br >}}  | [Laboratory for Electromagnetic and Electronic Systems](http://www.rle.mit.edu/laboratory-for-electromagnetic-and-electronic-systems/), RLE, MIT Electrical Engineering & Computer Science |
-| 8 |  {{< br >}}{{< br >}} Design analysis, error estimation, data presentation {{< br >}}{{< br >}} Propulsion: power vs. thrust and efficiency {{< br >}}{{< br >}}  | &nbsp; |
-| 9 | Engineering ethics and using your best judgment | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} Communicating engineering design {{< br >}}{{< br >}} Promoting your ideas/inventions {{< br >}}{{< br >}}  | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Exploration on the Moon: mission planning for EVA and geology, part 1 {{< br >}}{{< br >}} Guest lecturer: Prof. Dava Newman {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Prelab ([PDF ‑ 4.5MB]({{< baseurl >}}/resources/mit2_00ajs09_lec11)) (Courtesy of Dava Newman. Used with permission.) {{< br >}}{{< br >}} Lab ([PDF ‑ 2.0MB]({{< baseurl >}}/resources/mit2_00ajs09_lec12)) (Courtesy of Dava Newman. Used with permission.) {{< br >}}{{< br >}} [Photos](#killian) {{< br >}}{{< br >}}  | [Man Vehicle Lab](http://mvl.mit.edu/), MIT Aeronautics & Astronautics |
-| 12 |  {{< br >}}{{< br >}} Exploration adventure part 2 {{< br >}}{{< br >}} Guest lecturer: Prof. Dava Newman {{< br >}}{{< br >}}  | &nbsp; |
-| 13 | Student presentations: in-class design review | &nbsp; |
-| 14 | Design iterations, recalculations | &nbsp; |
-| 15 | Cool robots and bomb disposal | &nbsp; |
-| 16 | Bio-robots, gecko feet, and cool stuff! | &nbsp; |
-| 17 | Engineering and society | &nbsp; |
-| 18 | Guest lecture | &nbsp; |
-| 19 | Pool testing at the Z-Center | &nbsp; |
-| 20 |  {{< br >}}{{< br >}} Engineering at MIT: choice of majors {{< br >}}{{< br >}}  | &nbsp; |  {{< br >}}{{< br >}} [MIT Freshmen: Choosing Your Major](http://mitadmissions.org/blogs/entry/choosing_a_major) {{< br >}}{{< br >}} [MIT Mechanical Engineering](http://meche.mit.edu/) {{< br >}}{{< br >}} [MIT Ocean Engineering](http://oe.mit.edu/) {{< br >}}{{< br >}} [MIT Aeronautics and Astronautics](http://web.mit.edu/aeroastro/about/index.html) {{< br >}}{{< br >}}  |
-| 21 | No class, optional Boston Harbor Day trip + lunch | &nbsp; |
-| 22 | Guest lecturer: Prof. Steve Dubowsky, mobile robots | &nbsp; | [Field and Space Robotics Laboratory](http://robots.mit.edu/), MIT Mechanical Engineering |
-| 23 | Guest lecturer: Prof. Sangbae Kim, bio-inspired design | &nbsp; | [Biomimetic Robotics Lab](http://web.mit.edu/sangbae/www/), MIT Mechanical Engineering |
-| 24 | Engineering after MIT: grad school, consulting, FE exam, professional engineers certification, internships | &nbsp; |  {{< br >}}{{< br >}} [NCEES Fundamentals of Engineering Exams](http://www.ncees.org/Exams/FE_exam.php) {{< br >}}{{< br >}} ASME Ethics Code (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://rotorlab.tamu.edu/me489/README/ASME%20Policies%2015_7_8_9.pdf)) {{< br >}}{{< br >}}  |
-| 25 | Guest lecturer: Dr. Sheri White, underwater exploration | &nbsp; | [Dr. White's research](https://www.whoi.edu/oceanus/featured-researcher/sheri-white/), Woods Hole Oceanographic Institution |
-| 26 | Guest lecturer: Prof. Jeff Hoffman, aerospace engineering design | &nbsp; | [Massachusetts Space Grant Consortium](http://web.mit.edu/masgc/www/index.shtml), MIT Aeronautics & Astronautics |
-| 27 | Final student poster presentations | &nbsp; |
-| 28 | Lab clean up, evaluations | &nbsp; |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURES
+{{< thclose >}}
+{{< thopen >}}
+MATERIALS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class overview
+
+Introduction to engineering and the design process, engineering drawing, sketching, back of the envelope calculations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Overview ([PDF 1 ‑ 4.8MB]({{< baseurl >}}/resources/mit2_00ajs09_lec01a))
+
+Engineering design (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 ‑ 3.6MB]({{< baseurl >}}/resources/mit2_00ajs09_lec01b))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introductory questionnaire ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res01a))
+
+Concept quiz ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res01b))
+
+Slocum, Alexander H. "Design Is A Passionate Process." Chapter 1 in _Fundamentals of Design_. ([PDF](http://web.mit.edu/2.75/fundamentals/FUNdaMENTALs%20Book%20pdf/FUNdaMENTALs%20Topic%201.PDF))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Basic design analysis
+
+Free body diagrams, Newton's laws
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering analysis ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lec02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Electronics and water: two great tastes that don't taste so great together…
+
+Exploration with instrumentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Circuits ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lec03))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrostatics, pressure and water proofing
+{{< tdclose >}}
+{{< tdopen >}}
+Fluid effects and forces ([PDF ‑ 3.1MB]({{< baseurl >}}/resources/mit2_00ajs09_lec04))
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrostatic pressure effects and Archimedes' principle ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_read04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Holiday - no lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Design brainstorming, project ideas, Solidworks repository development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Motors and electronics
+
+Guest lecturer: Prof. Steven Leeb
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gears & linkages ([PDF ‑ 1.7MB]({{< baseurl >}}/resources/mit2_00ajs09_lec07))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Laboratory for Electromagnetic and Electronic Systems](http://www.rle.mit.edu/laboratory-for-electromagnetic-and-electronic-systems/), RLE, MIT Electrical Engineering & Computer Science
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Design analysis, error estimation, data presentation
+
+Propulsion: power vs. thrust and efficiency
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering ethics and using your best judgment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Communicating engineering design
+
+Promoting your ideas/inventions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Exploration on the Moon: mission planning for EVA and geology, part 1
+
+Guest lecturer: Prof. Dava Newman
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Prelab ([PDF ‑ 4.5MB]({{< baseurl >}}/resources/mit2_00ajs09_lec11)) (Courtesy of Dava Newman. Used with permission.)
+
+Lab ([PDF ‑ 2.0MB]({{< baseurl >}}/resources/mit2_00ajs09_lec12)) (Courtesy of Dava Newman. Used with permission.)
+
+[Photos](#killian)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Man Vehicle Lab](http://mvl.mit.edu/), MIT Aeronautics & Astronautics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Exploration adventure part 2
+
+Guest lecturer: Prof. Dava Newman
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations: in-class design review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Design iterations, recalculations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Cool robots and bomb disposal
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Bio-robots, gecko feet, and cool stuff!
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering and society
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Pool testing at the Z-Center
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Engineering at MIT: choice of majors
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[MIT Freshmen: Choosing Your Major](http://mitadmissions.org/blogs/entry/choosing_a_major)
+
+[MIT Mechanical Engineering](http://meche.mit.edu/)
+
+[MIT Ocean Engineering](http://oe.mit.edu/)
+
+[MIT Aeronautics and Astronautics](http://web.mit.edu/aeroastro/about/index.html)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+No class, optional Boston Harbor Day trip + lunch
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecturer: Prof. Steve Dubowsky, mobile robots
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[Field and Space Robotics Laboratory](http://robots.mit.edu/), MIT Mechanical Engineering
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecturer: Prof. Sangbae Kim, bio-inspired design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[Biomimetic Robotics Lab](http://web.mit.edu/sangbae/www/), MIT Mechanical Engineering
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering after MIT: grad school, consulting, FE exam, professional engineers certification, internships
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[NCEES Fundamentals of Engineering Exams](http://www.ncees.org/Exams/FE_exam.php)
+
+ASME Ethics Code (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://rotorlab.tamu.edu/me489/README/ASME%20Policies%2015_7_8_9.pdf))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecturer: Dr. Sheri White, underwater exploration
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[Dr. White's research](https://www.whoi.edu/oceanus/featured-researcher/sheri-white/), Woods Hole Oceanographic Institution
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecturer: Prof. Jeff Hoffman, aerospace engineering design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[Massachusetts Space Grant Consortium](http://web.mit.edu/masgc/www/index.shtml), MIT Aeronautics & Astronautics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Final student poster presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Lab clean up, evaluations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "killian" >}}{{< /anchor >}}Moon Mission Photos
 ----------------------------------------------------------

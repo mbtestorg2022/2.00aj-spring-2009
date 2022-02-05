@@ -23,4 +23,17 @@ uid: 0aee0583-c6aa-c4a8-7dde-fb73319a8f26
 {{</ image-gallery >}}
 _Video_
 
-|  {{< br >}}{{< br >}} [![](http://ocw.mit.edu/ans7870/2/2.00AJ/s09/labs/thumbnails/river.jpg)](/ans7870/2/2.00AJ/s09/labs/river.avi)  {{< br >}}([AVI - 24MB](/ans7870/2/2.00AJ/s09/labs/river.avi)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[![](http://ocw.mit.edu/ans7870/2/2.00AJ/s09/labs/thumbnails/river.jpg)](/ans7870/2/2.00AJ/s09/labs/river.avi)  
+([AVI - 24MB](/ans7870/2/2.00AJ/s09/labs/river.avi))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -4,36 +4,490 @@ title: Labs
 uid: 877f0e43-412d-b8b1-6e5b-2864cf8bf1cc
 ---
 
-| SES # | TOPICS | LABS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Class overview {{< br >}}{{< br >}} Introduction to engineering and the design process, engineering drawing, sketching, back of the envelope calculations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introduction to the OETL ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res01)) {{< br >}}{{< br >}} Solid Works tutorial {{< br >}}{{< br >}} Machine shop skills and safety ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lab01)) {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Basic design analysis {{< br >}}{{< br >}} Free body diagrams, Newton's laws {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Electronics and water: two great tastes that don't taste so great together… {{< br >}}{{< br >}} Exploration with instrumentation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Light banks ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lab02)) (Courtesy of Kate Thompson. Used with permission.) {{< br >}}{{< br >}} Electronics Assembly ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res02)) (Courtesy of Kate Thompson. Used with permission.) {{< br >}}{{< br >}} Solid Works tutorials/parts library {{< br >}}{{< br >}}  |
-| 4 | Hydrostatics, pressure and water proofing | &nbsp; |
-| 5 | Holiday - no lecture |  {{< br >}}{{< br >}} Instrumentation panels introduction and construction ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lab03)) {{< br >}}{{< br >}} Information on sensors ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res03)) {{< br >}}{{< br >}}  |
-| 6 | Design brainstorming, project ideas, Solidworks repository development | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Motors and electronics {{< br >}}{{< br >}} Guest lecturer: Prof. Steve Leeb, MIT Electrical Engineering and Computer Science {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Waterproof sensors/lights {{< br >}}{{< br >}} Design brainstorming {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Design analysis, error estimation, data presentation {{< br >}}{{< br >}} Propulsion: power vs. thrust and efficiency {{< br >}}{{< br >}}  | &nbsp; |
-| 9 | Engineering ethics and using your best judgment |  {{< br >}}{{< br >}} Motor building and testing {{< br >}}{{< br >}} Team development and brainstorming {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Communicating engineering design {{< br >}}{{< br >}} Promoting your ideas/inventions {{< br >}}{{< br >}}  | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Exploration on the Moon: mission planning for EVA and geology, part 1 {{< br >}}{{< br >}} Guest lecturer: Prof. Dava Newman, MIT Aeronautics & Astronautics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Testing sensors in lab {{< br >}}{{< br >}} Design analysis {{< br >}}{{< br >}} Brainstorming! {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} Exploration adventure part 2 {{< br >}}{{< br >}} Guest lecturer: Prof. Dava Newman, MIT Aeronautics & Astronautics {{< br >}}{{< br >}}  | &nbsp; |
-| 13 | Student presentations: in-class design review |  {{< br >}}{{< br >}} Build {{< br >}}{{< br >}} Revise analysis {{< br >}}{{< br >}} Parts list submission {{< br >}}{{< br >}}  |
-| 14 | Design iterations, recalculations | &nbsp; |
-| 15 | Cool robots and bomb disposal |  {{< br >}}{{< br >}} Build, build, build! {{< br >}}{{< br >}}  |
-| 16 | Bio-Robots, Gecko feet, and cool stuff! | &nbsp; |
-| 17 | Engineering and society |  {{< br >}}{{< br >}} Dunk-test vehicle (Pool)  {{< br >}}[Photos](#pool) {{< br >}}{{< br >}} Complete electronics {{< br >}}{{< br >}}  |
-| 18 | Guest lecture | &nbsp; |
-| 19 | Pool testing at the Z-Center |  {{< br >}}{{< br >}} Troubleshoot {{< br >}}{{< br >}} Data analysis from dunk test (Pool) and/or field test at Sailing pavilion (River) {{< br >}}{{< br >}}  |
-| 20 | Engineering at MIT: things to think about... choice of majors | &nbsp; |
-| 21 | No class, optional Boston Harbor Day trip + lunch |  {{< br >}}{{< br >}} Off site testing (River)  {{< br >}}[Photos](#river) {{< br >}}{{< br >}}  |
-| 22 | Guest lecturer: Prof. Steve Dubowsky, MIT Mechanical Engineering, mobile robots | &nbsp; |
-| 23 | Guest lecturer: Prof. Sangbae Kim, MIT Mechanical Engineering, bioinspired design |  {{< br >}}{{< br >}} Off site testing (TBA) {{< br >}}{{< br >}}  |
-| 24 | Engineering after MIT: things to think about... grad school, consulting, FE exam, professional engineers certification, internships | &nbsp; |
-| 25 | Guest lecturer: Dr. Sheri White, Woods Hole Oceanographic Institution, underwater exploration |  {{< br >}}{{< br >}} Further data analysis ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res04)) {{< br >}}{{< br >}} Design review poster preparation {{< br >}}{{< br >}}  |
-| 26 | Guest lecturer: Prof. Jeff Hoffman, MIT Aeronautics & Astronautics, aerospace engineering design | &nbsp; |
-| 27 | Final student poster presentations | &nbsp; |
-| 28 | Lab clean up, evaluations |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class overview
+
+Introduction to engineering and the design process, engineering drawing, sketching, back of the envelope calculations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to the OETL ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res01))
+
+Solid Works tutorial
+
+Machine shop skills and safety ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lab01))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Basic design analysis
+
+Free body diagrams, Newton's laws
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Electronics and water: two great tastes that don't taste so great together…
+
+Exploration with instrumentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Light banks ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lab02)) (Courtesy of Kate Thompson. Used with permission.)
+
+Electronics Assembly ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res02)) (Courtesy of Kate Thompson. Used with permission.)
+
+Solid Works tutorials/parts library
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrostatics, pressure and water proofing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Holiday - no lecture
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Instrumentation panels introduction and construction ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lab03))
+
+Information on sensors ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res03))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Design brainstorming, project ideas, Solidworks repository development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Motors and electronics
+
+Guest lecturer: Prof. Steve Leeb, MIT Electrical Engineering and Computer Science
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Waterproof sensors/lights
+
+Design brainstorming
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Design analysis, error estimation, data presentation
+
+Propulsion: power vs. thrust and efficiency
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering ethics and using your best judgment
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Motor building and testing
+
+Team development and brainstorming
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Communicating engineering design
+
+Promoting your ideas/inventions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Exploration on the Moon: mission planning for EVA and geology, part 1
+
+Guest lecturer: Prof. Dava Newman, MIT Aeronautics & Astronautics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Testing sensors in lab
+
+Design analysis
+
+Brainstorming!
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Exploration adventure part 2
+
+Guest lecturer: Prof. Dava Newman, MIT Aeronautics & Astronautics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations: in-class design review
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Build
+
+Revise analysis
+
+Parts list submission
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Design iterations, recalculations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Cool robots and bomb disposal
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Build, build, build!
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Bio-Robots, Gecko feet, and cool stuff!
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering and society
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dunk-test vehicle (Pool)  
+[Photos](#pool)
+
+Complete electronics
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Pool testing at the Z-Center
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Troubleshoot
+
+Data analysis from dunk test (Pool) and/or field test at Sailing pavilion (River)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering at MIT: things to think about... choice of majors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+No class, optional Boston Harbor Day trip + lunch
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Off site testing (River)  
+[Photos](#river)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecturer: Prof. Steve Dubowsky, MIT Mechanical Engineering, mobile robots
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecturer: Prof. Sangbae Kim, MIT Mechanical Engineering, bioinspired design
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Off site testing (TBA)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering after MIT: things to think about... grad school, consulting, FE exam, professional engineers certification, internships
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecturer: Dr. Sheri White, Woods Hole Oceanographic Institution, underwater exploration
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Further data analysis ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res04))
+
+Design review poster preparation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecturer: Prof. Jeff Hoffman, MIT Aeronautics & Astronautics, aerospace engineering design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Final student poster presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Lab clean up, evaluations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "pool" >}}{{< /anchor >}}Pool Testing Photos
 -------------------------------------------------------
@@ -47,4 +501,49 @@ uid: 877f0e43-412d-b8b1-6e5b-2864cf8bf1cc
 {{</ image-gallery >}}
 _Videos_
 
-|  {{< br >}}{{< br >}} [![](https://ocw.mit.edu/ans7870/2/2.00AJ/s09/labs/thumbnails/pool_clip1.jpg)](/ans7870/2/2.00AJ/s09/labs/pool_clip1.wmv)  {{< br >}}([WMV - 1.3MB](/ans7870/2/2.00AJ/s09/labs/pool_clip1.wmv)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [![](https://ocw.mit.edu/ans7870/2/2.00AJ/s09/labs/thumbnails/pool_clip2.jpg)](/ans7870/2/2.00AJ/s09/labs/pool_clip2.wmv)  {{< br >}}([WMV - 5.8MB](/ans7870/2/2.00AJ/s09/labs/pool_clip2.wmv)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [![](https://ocw.mit.edu/ans7870/2/2.00AJ/s09/labs/thumbnails/pool_clip3.jpg)](/ans7870/2/2.00AJ/s09/labs/pool_clip3.wmv)  {{< br >}}([WMV - 4.7MB](/ans7870/2/2.00AJ/s09/labs/pool_clip3.wmv)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [![](https://ocw.mit.edu/ans7870/2/2.00AJ/s09/labs/thumbnails/pool_clip4.jpg)](/ans7870/2/2.00AJ/s09/labs/pool_clip4.wmv)  {{< br >}}([WMV - 2.9MB](/ans7870/2/2.00AJ/s09/labs/pool_clip4.wmv)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [![](https://ocw.mit.edu/ans7870/2/2.00AJ/s09/labs/thumbnails/pool_clip5.jpg)](/ans7870/2/2.00AJ/s09/labs/pool_clip5.wmv)  {{< br >}}([WMV - 11MB](/ans7870/2/2.00AJ/s09/labs/pool_clip5.wmv)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[![](https://ocw.mit.edu/ans7870/2/2.00AJ/s09/labs/thumbnails/pool_clip1.jpg)](/ans7870/2/2.00AJ/s09/labs/pool_clip1.wmv)  
+([WMV - 1.3MB](/ans7870/2/2.00AJ/s09/labs/pool_clip1.wmv))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[![](https://ocw.mit.edu/ans7870/2/2.00AJ/s09/labs/thumbnails/pool_clip2.jpg)](/ans7870/2/2.00AJ/s09/labs/pool_clip2.wmv)  
+([WMV - 5.8MB](/ans7870/2/2.00AJ/s09/labs/pool_clip2.wmv))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[![](https://ocw.mit.edu/ans7870/2/2.00AJ/s09/labs/thumbnails/pool_clip3.jpg)](/ans7870/2/2.00AJ/s09/labs/pool_clip3.wmv)  
+([WMV - 4.7MB](/ans7870/2/2.00AJ/s09/labs/pool_clip3.wmv))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[![](https://ocw.mit.edu/ans7870/2/2.00AJ/s09/labs/thumbnails/pool_clip4.jpg)](/ans7870/2/2.00AJ/s09/labs/pool_clip4.wmv)  
+([WMV - 2.9MB](/ans7870/2/2.00AJ/s09/labs/pool_clip4.wmv))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[![](https://ocw.mit.edu/ans7870/2/2.00AJ/s09/labs/thumbnails/pool_clip5.jpg)](/ans7870/2/2.00AJ/s09/labs/pool_clip5.wmv)  
+([WMV - 11MB](/ans7870/2/2.00AJ/s09/labs/pool_clip5.wmv))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
