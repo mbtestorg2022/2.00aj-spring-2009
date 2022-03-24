@@ -41,7 +41,7 @@ Introduction to engineering and the design process, engineering drawing, sketchi
 
 Overview ([PDF 1 ‑ 4.8MB]({{< baseurl >}}/resources/mit2_00ajs09_lec01a))
 
-Engineering design (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 ‑ 3.6MB]({{< baseurl >}}/resources/mit2_00ajs09_lec01b))
+Engineering design ([PDF 2 ‑ 3.6MB]({{< baseurl >}}/resources/mit2_00ajs09_lec01b))
 
 
 {{< tdclose >}}
@@ -462,7 +462,7 @@ Engineering after MIT: grad school, consulting, FE exam, professional engineers 
 
 [NCEES Fundamentals of Engineering Exams](http://www.ncees.org/Exams/FE_exam.php)
 
-ASME Ethics Code (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://rotorlab.tamu.edu/me489/README/ASME%20Policies%2015_7_8_9.pdf))
+ASME Ethics Code ([PDF](http://rotorlab.tamu.edu/me489/README/ASME%20Policies%2015_7_8_9.pdf))
 
 
 {{< tdclose >}}

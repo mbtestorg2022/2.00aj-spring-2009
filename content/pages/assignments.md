@@ -9,7 +9,7 @@ This page contains the writing assignments for the course. Details about the fin
 Lab Notebook Review
 -------------------
 
-Design notebook guidelines (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_00ajs09_assn01_notebook))
+Design notebook guidelines ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_assn01_notebook))
 
 Notebooks will be collected **in lab** approximately every other week.
 
@@ -53,7 +53,7 @@ Oral Presentation
 
 Your team will make a presentation to the class on your design ideas and how you plan to construct your vehicle. This presentation should be made in Powerpoint (MAC/Windows) or Keynote (MAC OS) and a PDF should be printed and posted to the course Web site. Each team member should present some aspect of the design.
 
-Rethinking the design of presentation slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_00ajs09_assn04_oral_pres)) (Courtesy of Michael Alley. Used with permission.)
+Rethinking the design of presentation slides ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_assn04_oral_pres)) (Courtesy of Michael Alley. Used with permission.)
 
 Presentation template ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_assn05_oral_template))
 
